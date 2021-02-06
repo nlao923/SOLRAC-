@@ -1,10 +1,10 @@
-const stickermaker = (prefix, botName, ownerName) => {
+{
 	return `
-「 *${botName}* 」
+「 *${SOLARC BOT* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: ${SOLRAC}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
@@ -18,4 +18,7 @@ const stickermaker = (prefix, botName, ownerName) => {
   ├─ ❏ ${prefix}stickergif
   └─ ❏ ${prefix}ttp`
 }
-exports.stickermaker = stickermaker
+exports.stickermaker = stickermakerconst stickermaker = (prefix, botName, ownerName) => {
+	
+  
+
